@@ -1,4 +1,4 @@
 <p align="center">
-<ahref="https://zeeqw.atabook.org">atabook<
+<ahref="zeeqw.atabook.org">atabook
 </a>
 </p>
