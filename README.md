@@ -1,5 +1,5 @@
 <p align="center">
-<ahref="zeeqw.atabook.org">
+<ahref="https://zeeqw.atabook.org/?page=1">
   atabook
 </a>
 </p>
